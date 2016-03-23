@@ -4,6 +4,10 @@ header {
   color: lightgray;
 }
 
+ul {
+  list-style-type: square;
+}
+
 .outline {
   border: 2px black solid;
 }
