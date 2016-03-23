@@ -8,6 +8,10 @@ ul {
   list-style-type: square;
 }
 
+img {
+  width: 100%;
+}
+
 .outline {
   border: 2px black solid;
 }
