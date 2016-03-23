@@ -1,3 +1,7 @@
+section, header, footer {
+  padding: 25px;
+}
+
 header, footer {
   text-align: center;
   background-color: black;
